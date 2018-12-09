@@ -8,5 +8,6 @@ Prompt for report:
 - References
 - A screenshot of your score in the competition (specify name of your name)
 
-
+Kaggle link:
+https://www.kaggle.com/c/human-protein-atlas-image-classification/
 
